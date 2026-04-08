@@ -1,6 +1,6 @@
 """
 SmartParcel — TCP Client
-NET 214 Network Programming — Spring 2026 — REFERENCE SOLUTION
+
 """
 
 import socket
